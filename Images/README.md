@@ -10,4 +10,4 @@
 ![Informacion](./Informacion.png)
 
 ## Temática
-![Tematica](./Tematicas.png)
+![Tematica](./Tematica.png)
