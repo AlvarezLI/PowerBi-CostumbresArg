@@ -14,3 +14,12 @@ El proyecto está organizado en varias carpetas y archivos, los cuales son los s
 
 
 ### Para mas informacion sobre el dataset utilizado, [haz click aquí.](https://datos.gob.ar/dataset/cultura-mapa-cultural-agentes-actividades-culturales/archivo/cultura_d948730c-e029-49c2-b63d-86fac65ac30a)
+
+"Marco legal:
+Estos son los decretos y resoluciones que enmarcan la política de apertura de datos de la Administración Pública Nacional.
+
+Plan Nacional de Apertura de Datos:
+El decreto 117/2016 reglamenta plazos tanto para la publicación de los primeros conjuntos de datos de nuestro portal. También reglamenta los tiempos para detallar los activos de datos de los distintos organismos de la Nación y su cronograma de publicación.
+
+Régimen de Acceso a la Información Pública:
+Ley 27275 de Derecho de Acceso a la Información Pública."
