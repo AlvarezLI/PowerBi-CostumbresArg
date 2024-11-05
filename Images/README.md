@@ -44,5 +44,5 @@ Aquí se examina la temática de los eventos, proporcionando detalles sobre el t
 #### KPIs:
 - **Evento Más Popular**: KPI que muestra el evento más popular.
 - **Eventos Religiosos/Culto**: KPI que muestra la cantidad de eventos religiosos o de culto.
-- 
+  
 ![Tematica](./Tematica.png)
